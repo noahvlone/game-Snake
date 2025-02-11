@@ -15,6 +15,12 @@
 - **Score & Highscore Tracking:**  
   Skor permainan disimpan secara lokal menggunakan `localStorage`.
 
+## Teknologi yang digunakan
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Canvas API**
+
 ## Demo
 
 Lihat demo langsung di: [Link Live on Vercel](https://snake-game-self-three-71.vercel.app/)
