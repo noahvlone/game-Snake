@@ -24,4 +24,4 @@ Lihat demo langsung di: [Link Live on Vercel](https://snake-game-self-three-71.v
 1. **Clone Repository:**
 
    ```bash
-   git clone https://github.com/username/advanced-snake-game.git
+   git clone https://github.com/noahvlone/game-Snake.git
