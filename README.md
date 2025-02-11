@@ -25,9 +25,18 @@
 
 Lihat demo langsung di: [Link Live on Vercel](https://snake-game-self-three-71.vercel.app/)
 
-## Cara Menjalankan Secara Lokal
+# Panduan Kontribusi
 
-1. **Clone Repository:**
+Terima kasih atas minatmu untuk berkontribusi ke proyek **Advanced Snake Game - Cool Edition**! Kami sangat menghargai bantuan dari komunitas. Berikut beberapa pedoman untuk membantu proses kontribusimu:
+
+## Cara Berkontribusi
+
+1. **Fork Repository**  
+   Klik tombol *Fork* di pojok kanan atas halaman GitHub proyek ini.
+
+2. **Clone Repository Fork-mu**
 
    ```bash
    git clone https://github.com/noahvlone/game-Snake.git
+   cd game-Snake
+
